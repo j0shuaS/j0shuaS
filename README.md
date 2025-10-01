@@ -5,7 +5,7 @@
 </p>
 -->
 <p align="center">
-<img src="https://images.wallpaperscraft.com/image/single/ocean_surf_foam_117846_1600x900.jpg" alt="1600x900 Wallpaper ocean, surf, foam, sea, water" width="800"/>
+<img src="https://images.wallpaperscraft.com/image/single/ocean_surf_foam_117846_1600x900.jpg" alt="1600x900 Wallpaper ocean, surf, foam, sea, water" width="600"/>
 </p>
 
 ## 🌊 About Me  
