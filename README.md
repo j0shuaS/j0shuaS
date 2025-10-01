@@ -1,7 +1,7 @@
 # Whats Up! I'm Josh
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f251f374-2e3e-4b1d-89de-f7c7f6917657" alt="Ocean Wave Gif" width="650" />
+  <img src="https://github.com/user-attachments/assets/f251f374-2e3e-4b1d-89de-f7c7f6917657" alt="Ocean Wave Gif" width="450" />
 </p>
 
 ## 🌊 About Me  
