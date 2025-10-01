@@ -1,7 +1,11 @@
 # Whats Up! I'm Josh
 
+<!--<p align="center">
+  <img src="https://github.com/user-attachments/assets/f251f374-2e3e-4b1d-89de-f7c7f6917657" alt="Ocean Wave Gif" width="525" />
+</p>
+-->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f251f374-2e3e-4b1d-89de-f7c7f6917657" alt="Ocean Wave Gif" width="450" />
+<img src="https://images.wallpaperscraft.com/image/single/ocean_surf_foam_117846_1600x900.jpg" alt="1600x900 Wallpaper ocean, surf, foam, sea, water" width="800"/>
 </p>
 
 ## 🌊 About Me  
