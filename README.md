@@ -1,7 +1,8 @@
-# Whats Up! I'm Josh  
-![Ocean Wave Gif](https://github.com/user-attachments/assets/f251f374-2e3e-4b1d-89de-f7c7f6917657)
+# Whats Up! I'm Josh
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f251f374-2e3e-4b1d-89de-f7c7f6917657" alt="Ocean Wave Gif" width="650" />
+</p>
 
 ## 🌊 About Me  
 I'm based in **Christiansburg, VA**, and I love the **beach and ocean** 🏖️.  
@@ -39,7 +40,8 @@ I’m an active member of the **401 FRC Team**, where I contribute as a programm
 - [SnakeScreen](https://github.com/team401/snakescreen) — Frontend project for our team 401's robot display  
 - [2025 FRC Robot Code](https://github.com/team401/2025-Robot-Code) — Team 401's 2025 Competition Robot Code  
 - [Nerds & Brackets](https://github.com/j0shuaS/nerds-and-brackets) — Starship config for custom rice setups  
-- [Note Block Convert](https://github.com/j0shuaS/NoteBlockConvert) — MP3 to Minecraft music block converter
+- [Note Block Convert](https://github.com/j0shuaS/NoteBlockConvert) — MP3 to Minecraft music block converter 🚧 *Under Construction*
+
 
 ---
 
